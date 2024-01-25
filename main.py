@@ -80,7 +80,6 @@ while running :
         bg_color = background
 
 
-
     screen.blit(bg_color,(0,0))
     all_sprites_group.draw(screen)
     pygame.display.flip()
